@@ -1,2 +1,4 @@
 name: James Winters
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
